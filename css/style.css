@@ -24,6 +24,11 @@ body {
     margin: 0 auto;
 }
 
+#cabecera
+{
+    margin: 16px 0px;
+}
+
 #container h1
 {
     font-size: 2rem;
