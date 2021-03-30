@@ -1,18 +1,10 @@
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-
-html {
-    font-size: 62.5%;
-}
-
 body {
     color: #333;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 1.6rem;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 
 #container
@@ -26,10 +18,5 @@ body {
 
 #container h1
 {
-    font-size: 2rem;
-}
-
-#container p
-{
-    margin: 16px 0px;
+    font-size: 20px;
 }
