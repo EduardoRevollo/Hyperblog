@@ -1,2 +1,2 @@
 # Hyperblog
-Repositorio para el hiperblog de Eduardo Revollo
+Repositorio para el hyperblog de Eduardo Revollo
